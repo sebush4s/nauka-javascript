@@ -8,3 +8,7 @@ JavaScript to skryptowy oraz wieloparadygmatowy język programowania, stworzony 
 * JavaScript jest przyjazny dla początkujących.
 * Posiada ogromną społeczność.
 * Szeroki zakres zastosowań.
+
+<div style="text-align: right"
+
+**Przejdź dalej:** [2. Instalacja](../2.%20Instalacja/readme.md)

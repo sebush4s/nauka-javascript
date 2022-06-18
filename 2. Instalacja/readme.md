@@ -12,3 +12,7 @@ Aby sprawdzić poprawność instalacji możesz skorzystać z polecenia:
 ```bash
 node -v
 ```
+
+<div style="text-align: right"
+
+**Przejdź dalej:** [3. Tworzenie projektu](../3.%20Tworzenie%20projektu/readme.md)

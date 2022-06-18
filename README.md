@@ -10,6 +10,7 @@ Przewodnik nauki języka JavaScript krok po kroku.
 ## Spis treści
 1. [Wstęp](1.%20Wstep/readme.md)
 2. [Instalacja](2.%20Instalacja/readme.md)
+3. [Tworzenie projektu](3.%20Tworzenie%20projektu/readme.md)
 
 ## Kontakt:
 * email : hasanoesgraphics@gmail.com

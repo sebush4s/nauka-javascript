@@ -1,5 +1,7 @@
 # Naucz się programowania w JavaScript
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K44OKHS)
+![Discord](https://img.shields.io/discord/828008854519677018?label=Discord&style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/sebush4s/nauka-javascript?style=for-the-badge)
 ---
 Przewodnik nauki języka JavaScript krok po kroku.
 
